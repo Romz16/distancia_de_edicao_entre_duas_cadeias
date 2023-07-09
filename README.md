@@ -1,0 +1,1 @@
+# distancia_de_edicao_entre_duas_cadeias
